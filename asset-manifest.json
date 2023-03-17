@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "https://sumeettechbytes.github.io/M2MLandingDemo/static/css/main.7a5be2ba.css",
-    "main.js": "https://sumeettechbytes.github.io/M2MLandingDemo/static/js/main.b20cb851.js",
+    "main.js": "https://sumeettechbytes.github.io/M2MLandingDemo/static/js/main.f3fd6252.js",
     "static/js/787.15a00391.chunk.js": "https://sumeettechbytes.github.io/M2MLandingDemo/static/js/787.15a00391.chunk.js",
     "static/media/form_background_blue.png": "https://sumeettechbytes.github.io/M2MLandingDemo/static/media/form_background_blue.07ef8ac62ae642b2d1d8.png",
     "static/media/remixicon.svg": "https://sumeettechbytes.github.io/M2MLandingDemo/static/media/remixicon.1664a258a7e7714f6f8d.svg",
@@ -57,11 +57,11 @@
     "static/media/slick.woff": "https://sumeettechbytes.github.io/M2MLandingDemo/static/media/slick.295183786cd8a1389865.woff",
     "index.html": "https://sumeettechbytes.github.io/M2MLandingDemo/index.html",
     "main.7a5be2ba.css.map": "https://sumeettechbytes.github.io/M2MLandingDemo/static/css/main.7a5be2ba.css.map",
-    "main.b20cb851.js.map": "https://sumeettechbytes.github.io/M2MLandingDemo/static/js/main.b20cb851.js.map",
+    "main.f3fd6252.js.map": "https://sumeettechbytes.github.io/M2MLandingDemo/static/js/main.f3fd6252.js.map",
     "787.15a00391.chunk.js.map": "https://sumeettechbytes.github.io/M2MLandingDemo/static/js/787.15a00391.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.7a5be2ba.css",
-    "static/js/main.b20cb851.js"
+    "static/js/main.f3fd6252.js"
   ]
 }
