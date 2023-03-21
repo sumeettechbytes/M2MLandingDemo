@@ -1,9 +1,10 @@
 {
   "files": {
-    "main.css": "https://sumeettechbytes.github.io/M2MLandingDemo/static/css/main.7a5be2ba.css",
-    "main.js": "https://sumeettechbytes.github.io/M2MLandingDemo/static/js/main.f3fd6252.js",
+    "main.css": "https://sumeettechbytes.github.io/M2MLandingDemo/static/css/main.995e1111.css",
+    "main.js": "https://sumeettechbytes.github.io/M2MLandingDemo/static/js/main.944952d8.js",
     "static/js/787.15a00391.chunk.js": "https://sumeettechbytes.github.io/M2MLandingDemo/static/js/787.15a00391.chunk.js",
     "static/media/form_background_blue.png": "https://sumeettechbytes.github.io/M2MLandingDemo/static/media/form_background_blue.07ef8ac62ae642b2d1d8.png",
+    "static/media/courses_banner2.jpg": "https://sumeettechbytes.github.io/M2MLandingDemo/static/media/courses_banner2.f7aee5b490aa04873c9f.jpg",
     "static/media/remixicon.svg": "https://sumeettechbytes.github.io/M2MLandingDemo/static/media/remixicon.1664a258a7e7714f6f8d.svg",
     "static/media/landing-page-innerpages.png": "https://sumeettechbytes.github.io/M2MLandingDemo/static/media/landing-page-innerpages.aa745159510c29397f45.png",
     "static/media/remixicon.eot": "https://sumeettechbytes.github.io/M2MLandingDemo/static/media/remixicon.5cb99e6cba5a4619063f.eot",
@@ -25,7 +26,6 @@
     "static/media/home-five-courses.jpg": "https://sumeettechbytes.github.io/M2MLandingDemo/static/media/home-five-courses.b7b76e8c74045f2ff1aa.jpg",
     "static/media/home-one-blog.jpg": "https://sumeettechbytes.github.io/M2MLandingDemo/static/media/home-one-blog.b0f3107e08d8e4efdbf1.jpg",
     "static/media/about-us-two-team-team.jpg": "https://sumeettechbytes.github.io/M2MLandingDemo/static/media/about-us-two-team-team.db2f192cedb2885916ba.jpg",
-    "static/media/home-one-banner.jpg": "https://sumeettechbytes.github.io/M2MLandingDemo/static/media/home-one-banner.3885e64011ecb9920f13.jpg",
     "static/media/home-one-testimonial.jpg": "https://sumeettechbytes.github.io/M2MLandingDemo/static/media/home-one-testimonial.79f6126f9641c9ae12b8.jpg",
     "static/media/home-one-service.jpg": "https://sumeettechbytes.github.io/M2MLandingDemo/static/media/home-one-service.da0cfb3be566ee72c361.jpg",
     "static/media/home-two-blog.jpg": "https://sumeettechbytes.github.io/M2MLandingDemo/static/media/home-two-blog.95a96ec8363c68e20abe.jpg",
@@ -56,12 +56,12 @@
     "static/media/slick.ttf": "https://sumeettechbytes.github.io/M2MLandingDemo/static/media/slick.c94f7671dcc99dce43e2.ttf",
     "static/media/slick.woff": "https://sumeettechbytes.github.io/M2MLandingDemo/static/media/slick.295183786cd8a1389865.woff",
     "index.html": "https://sumeettechbytes.github.io/M2MLandingDemo/index.html",
-    "main.7a5be2ba.css.map": "https://sumeettechbytes.github.io/M2MLandingDemo/static/css/main.7a5be2ba.css.map",
-    "main.f3fd6252.js.map": "https://sumeettechbytes.github.io/M2MLandingDemo/static/js/main.f3fd6252.js.map",
+    "main.995e1111.css.map": "https://sumeettechbytes.github.io/M2MLandingDemo/static/css/main.995e1111.css.map",
+    "main.944952d8.js.map": "https://sumeettechbytes.github.io/M2MLandingDemo/static/js/main.944952d8.js.map",
     "787.15a00391.chunk.js.map": "https://sumeettechbytes.github.io/M2MLandingDemo/static/js/787.15a00391.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.7a5be2ba.css",
-    "static/js/main.f3fd6252.js"
+    "static/css/main.995e1111.css",
+    "static/js/main.944952d8.js"
   ]
 }
